@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Mohit
-- 🏫 I’m a freshman at UBC
+- 🏫 I’m a sophomore at UBC
 - 👀 I’m interested in Web Development & Data Science
 - 🌱 I’m currently learning Three.js which utilizes the WebGL framework for 3-D web rendering
 - 💞️ I’m looking to collaborate on anything that needs me :)
