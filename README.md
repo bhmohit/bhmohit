@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">I architect software.</h3>
+<h3 align="center">And I architect software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhmohit&label=Profile%20views&color=0e75b6&style=flat" alt="bhmohit" /> </p>
 
