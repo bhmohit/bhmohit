@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">And I architect software.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhmohit&label=Profile%20views&color=0e75b6&style=flat" alt="bhmohit" /> </p>
-
 - 🔭 I’m currently working on [NBAViz](https://github.com/bhmohit/NBAViz)
 
 - 🌱 I’m currently learning **DevOps**
@@ -23,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhmohit&show_icons=true&locale=en" alt="bhmohit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhmohit&" alt="bhmohit" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhmohit&label=Profile%20views&color=0e75b6&style=flat" alt="bhmohit" /> </p>
